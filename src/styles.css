@@ -1,0 +1,18 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  font-size: 62.5%;
+}
+
+header {
+  font-size: 2rem;
+}
+.option {
+  padding: 1rem;
+  cursor: pointer;
+  border: 1px solid black;
+}
+
+.test {
+  background-color: grey;
+}
